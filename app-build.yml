@@ -1,0 +1,9 @@
+# Infinix Live Stream
+
+An Android app for streaming live camera video and microphone audio between two authorized phones using LiveKit.
+
+## Planned features
+- Camera and microphone permissions
+- Start and stop live streaming
+- Viewer mode on a second phone
+- LiveKit connection
