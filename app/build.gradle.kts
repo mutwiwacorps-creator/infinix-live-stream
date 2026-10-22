@@ -16,3 +16,7 @@ android {
         versionName = "1.0"
     }
 }
+
+dependencies {
+    implementation("io.livekit:livekit-android:2.29.0")
+}
